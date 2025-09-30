@@ -43,7 +43,7 @@ https://templatemo.com/tm-591-villa-agency
   </div>
   <!-- ***** Preloader End ***** -->
 
- 
+
 
   <!-- ***** Header Area Start ***** -->
   <header class="header-area header-sticky">
@@ -62,8 +62,8 @@ https://templatemo.com/tm-591-villa-agency
                       <li><a href="properties.html">Properties</a></li>
                       <li><a href="property-details.html">Property Details</a></li>
                       <li><a href="contact.html">Contact Us</a></li>
-                      <li><a href="#"><i class="fa fa-calendar"></i> Schedule a visit</a></li>
-                  </ul>   
+                      <li><a href="{{ route('login') }}"><i class="fa fa-calendar"></i> Log in Here</a></li>
+                  </ul>
                     <a class='menu-trigger'>
                         <span>Menu</span>
                     </a>
@@ -72,6 +72,7 @@ https://templatemo.com/tm-591-villa-agency
             </div>
         </div>
     </div>
+
   </header>
   <!-- ***** Header Area End ***** -->
 
@@ -204,7 +205,7 @@ https://templatemo.com/tm-591-villa-agency
                     <button class="nav-link" id="slh-tab" data-bs-toggle="tab" data-bs-target="#slh" type="button" role="tab" aria-controls="slh" aria-selected="false">MSU SLH</button>
                   </li>
                 </ul>
-              </div>              
+              </div>
               <div class="tab-content" id="myTabContent">
                 <div class="tab-pane fade show active" id="appartment" role="tabpanel" aria-labelledby="appartment-tab">
                   <div class="row">
@@ -224,7 +225,7 @@ https://templatemo.com/tm-591-villa-agency
                     </div>
                     <div class="col-lg-3">
                       <h4>Extra Info About Property</h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse. 
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.
                       <br><br>When you need free CSS templates, you can simply type TemplateMo in any search engine website. In addition, you can type TemplateMo Portfolio, TemplateMo One Page Layouts, etc.</p>
                       <div class="icon-button">
                         <a href="property-details.html"><i class="fa fa-calendar"></i> Schedule a visit</a>
@@ -278,7 +279,7 @@ https://templatemo.com/tm-591-villa-agency
                       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse. <br><br>Swag fanny pack lyft blog twee. JOMO ethical copper mug, succulents typewriter shaman DIY kitsch twee taiyaki fixie hella venmo after messenger poutine next level humblebrag swag franzen.</p>
                       <div class="icon-button">
                         <a href="property-details.html"><i class="fa fa-calendar"></i> Schedule a visit</a>
-                      </div>  
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -300,7 +301,7 @@ https://templatemo.com/tm-591-villa-agency
                     </div>
                     <div class="col-lg-3">
                       <h4>Extra Info About MSU SLH</h4>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse. 
+                      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.
                       <br><br>This is a placeholder for MSU SLH. You can update this section with relevant information about the property.</p>
                       <div class="icon-button">
                         <a href="property-details.html"><i class="fa fa-calendar"></i> Schedule a visit</a>
@@ -476,8 +477,8 @@ https://templatemo.com/tm-591-villa-agency
   <footer>
     <div class="container">
       <div class="col-lg-8">
-        <p>Copyright © 2048 Villa Agency Co., Ltd. All rights reserved. 
-        
+        <p>Copyright © 2048 Villa Agency Co., Ltd. All rights reserved.
+
         Design: <a rel="nofollow" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
       </div>
     </div>
